@@ -1,5 +1,3 @@
-<img width="2560" height="1440" alt="cooling off" src="https://github.com/user-attachments/assets/bee4c220-a0e3-4e99-b430-b8442aa54b80" /># 🚗 EV-Diag: Real-time Vehicle Diagnostic System
-
 A full-stack vehicle telemetry and active diagnostic dashboard simulating **Tesla Service Mode**.
 Designed to visualize CAN Bus data and perform active tests (e.g., Thermal Control) via WebSocket.
 
